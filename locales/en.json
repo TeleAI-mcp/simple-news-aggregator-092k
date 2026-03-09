@@ -1,0 +1,6 @@
+{
+  "app.title": "Simple News Aggregator 092K",
+  "app.description": "A simple project used to test GitHub automation workflows.",
+  "news.heading": "Latest News",
+  "news.empty": "No news articles are available right now."
+}

@@ -1,0 +1,6 @@
+{
+  "app.title": "Agregador Simple de Noticias 092K",
+  "app.description": "Un proyecto simple usado para probar flujos de automatización de GitHub.",
+  "news.heading": "Últimas noticias",
+  "news.empty": "No hay artículos de noticias disponibles en este momento."
+}
